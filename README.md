@@ -1,2 +1,2 @@
 # tree_builder
-Was wrote for one of the employer
+It Was written for one of the employer as excercise.
